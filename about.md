@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Art and apps by [Aaron Schachter](http://www.aaronschachter.com/).
 
-### More Information
+## Apps
 
-A place to include any other types of information that you'd like to include about yourself. 
+Coming soon!
 
-### Contact me
+## Credits
 
-[email@domain.com](mailto:email@domain.com)
+I built this site using [Jekyll Now](http://www.github.com/barryclark/jekyll-now).
