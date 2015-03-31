@@ -193,15 +193,21 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  background: $darkGray;
+  color: white;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  padding: 2px;
+}
+.site-name a:hover{
+  color: #00FF00;
 }
 
 .site-description {
+  display: none;
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
